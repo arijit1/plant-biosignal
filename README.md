@@ -86,5 +86,8 @@ This ensures that the dashboard remembers the **absolute maximum and minimum val
   Signal quality depends heavily on soil moisture levels and leaf surface contact quality.
 
 ---
+## Outcomes
+- **After leaf is pinched , it spikes 3200mV  **
+<img width="1440" height="900" alt="Screenshot 2026-04-04 at 10 10 13 PM" src="https://github.com/user-attachments/assets/593085b0-cab9-4caf-bca8-2fc7ee8b5a29" />
 
 *Developed for the Lily Electrophysiology Bio-Data Project.*
