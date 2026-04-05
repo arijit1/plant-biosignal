@@ -92,4 +92,6 @@ This ensures that the dashboard remembers the **absolute maximum and minimum val
 <img width="1188" height="806" alt="image" src="https://github.com/user-attachments/assets/5b5777cb-255f-4a1d-93a9-76de52bfeb50" />
 <img width="1188" height="806" alt="image" src="https://github.com/user-attachments/assets/91a3b56f-6756-44cf-aa7a-e0f2c279cab5" />
 
+## Circuit Diagram
+
 *Developed for the Lily Electrophysiology Bio-Data Project.*
