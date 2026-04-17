@@ -69,6 +69,9 @@ if(cur > hi) {
   hi = cur;
 }
 ```
+```terminal command for port
+ls /dev/cu*
+```
 
 This ensures that the dashboard remembers the **absolute maximum and minimum values** detected since the last manual reset, even if the page is refreshed.
 
